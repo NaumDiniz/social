@@ -1,7 +1,8 @@
 <h1>Minhas Redes Sociais</h1>
 <h2>Quem sou eu ?</h2>
 
-<img class="perfil" src="https://cdn.pixabay.com/photo/2020/03/25/16/01/children-4967808_960_720.jpg" alt="Polar Bear">
+<img src="https://cdn.pixabay.com/photo/2020/03/25/16/01/children-4967808_960_720.jpg" alt="Polar Bear">
+
 
 <p>Meu nome é Naum Leal, tenho 19 anos e estou em busca de uma carreira como programador. O nosso futuro e inserto e duvidoso, como dizia Francis Bacon, O futuro do homem está oculto no seu saber. Que é uma clara mensão que vamos ser dominados pelas máquinas, ou como Friedrich Nietzsche citou, É o futuro que dita a regra do nosso hoje, sendo assim teremos um grande mundo dominado pela tecnologia...
 </p>
