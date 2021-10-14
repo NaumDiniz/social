@@ -25,7 +25,7 @@
   <h2>Como falar comigo ?</h2>
 <ul>
   <li><img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/16/Github-icon.png" alt=" icon.github"><a href="https://github.com/NaumDiniz" target="_blank" rel="external">/NaumDiniz</a> -Acessa meu repositório público no GitHub</li>
-  <li><img src="https://icons.iconarchive.com/icons/icons8/windows-8/16/Social-Networks-Instagram-icon.png" alt="icon.insta"><a href="https://www.instagram.com/lord.codes" target="_blank" rel="external">/lord.codes</a> -Me segue lá no instagram</li>
+  <li><img src="https://icons.iconarchive.com/icons/icons8/windows-8/16/Social-Networks-Instagram-icon.png" alt="icon.insta"><a href="https://www.instagram.com/n41lld" target="_blank" rel="external">/N41lld</a> -Me segue lá no instagram</li>
 </ul>
 
   
